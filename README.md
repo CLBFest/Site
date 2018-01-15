@@ -56,6 +56,7 @@ The Festival welcomes enthusiasts of all ages, genders, backgrounds, skill level
 
 
 #### Sunday
+
 || Track 1: LEARN | Track 2: HACK | Track 3: DISCUSS |
 |--------|-----------|---------|--------------------|
 | 8:30 am | Check-in Breakfast & Welcome Back | Check-in Breakfast & Welcome Back| Check-in Breakfast & Welcome Back |
@@ -66,7 +67,7 @@ The Festival welcomes enthusiasts of all ages, genders, backgrounds, skill level
 | 7 pm | Reception | Reception | Reception
 
 #### Post-Festival Follow Up
-* TBD -  Announcement of Global Award Winners|
+* TBD -  Announcement of Global Award Winners
 
 ---------------------
 HTML Splashpage: [ https://clbfest.github.io/Site]( https://clbfest.github.io/Site)
