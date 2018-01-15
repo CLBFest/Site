@@ -1,5 +1,6 @@
-### SUBSTANTIVE TRACK 1 - SMART LEGAL CONTRACTS
+# CL+ B Fest
 
+### SUBSTANTIVE TRACK 1 - SMART LEGAL CONTRACTS
 
 | *Name of Challenge* | *Description/Purpose - Use Case* | 
 |------------------|--------------|
