@@ -1,10 +1,12 @@
 ### SUBSTANTIVE TRACK 1 - SMART LEGAL CONTRACTS
+
 | *Name of Challenge* | *Description/Purpose - Use Case* | 
 |------------------|--------------|
 | Smart Contract Formation and Execution Challenge | Smart legal contracts can improve upon existing contracting practices by incorporating external data sources to provide real-time status about the performance of obligations and automating various legal, business, and operational practices such as giving notice of breach, issuing an invoice, and making payment. The challenge is to draft and execute a smart legal contract that is connected to data and software systems in order to address a legal or business problem in areas that may include supply chain, employment, professional services (including service levels), media/entertainment, fundraising, or real estate. Presented by the Accord Project and OpenLaw. | 
 | Smart Contract Dispute Resolution Challenge |Smart contracts face challenges--there are coding errors and security vulnerabilities; users will need to make changes, terminate contracts, and dispute transactions. Contracting parties will have disputes with different disputed amounts, in different industries, and with different sensitivities or concerns. The challenge is to define a type of dispute you believe will become prevalent in the smart contract space and create a dispute resolution solution or process for smart contract users of that type. The solution will sit on an infrastructure-level dispute resolution marketplace. Challenge presented by Bootstrap Legal.|
 
 ### SUBSTANTIVE TRACK 2 - BLOCKCHAIN FOR LEGAL USE CASES
+
 | *Name of Challenge* | *Description/Purpose - Use Case* | 
 |-----------|--------|
 | Digital Identity Challenge |Develop a solution to enable enforceable blockchain-based digital signatures to grant or revoke consent and authorization for electronic transactions on the open web. |
