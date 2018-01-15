@@ -1,5 +1,8 @@
 # CL+ B Fest
 
+![clbfest](https://user-images.githubusercontent.com/10615650/34959250-b2a35ae0-fa03-11e7-8a86-55426116c784.png)
+
+
 ## Home
 On March 16-18, 2018, the first annual Computational Law & Blockchain Festival will bring together coders, designers, lawyers, policymakers, researchers, and students from around the world to co-create the future of law, legal practice, and policymaking.
 
